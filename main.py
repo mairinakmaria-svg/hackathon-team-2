@@ -1,3 +1,4 @@
-from utils import factorial
+from utils import *
 
 print(factorial(5))
+print(is_prime(7))
